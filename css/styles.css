@@ -513,6 +513,10 @@ footer{
     
 }
 
+.other{
+color: #fff;
+}
+
 /*form y map*/
 .my-container {
     display: flex;
