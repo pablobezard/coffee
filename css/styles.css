@@ -55,7 +55,7 @@ html {
 
 @media (max-width: 800px) {
     .nav_links_inicio {
-        display: none;
+        display: flex;
     }
 
     .logo-pc {
@@ -514,7 +514,7 @@ footer{
 }
 
 .other{
-color: #fff;
+color:#fff;
 }
 
 /*form y map*/
